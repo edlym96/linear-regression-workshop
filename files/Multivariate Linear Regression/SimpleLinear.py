@@ -13,6 +13,6 @@ Calculate the linear regression output for given feature, x1 and weights, w0 and
 """
 import numpy as np
 
-def simple_linear_model(W,X):
+def multi_linear_model(W,X):
     y_hat=np.dot(X,W)
     return y_hat

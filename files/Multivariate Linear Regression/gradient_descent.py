@@ -26,3 +26,9 @@ def gradient_descent(W,X,y,y_hat,size,learning_rate=0.01):
     W = W-(learning_rate/size)*np.dot(np.transpose(X),diff)
     print("W is: ", W)
     return W
+
+def regularised_gradient_descent(W,X,y,y_hat,size,learning_rate=0.01,regularisation_parameter=0.01):
+    diff = y_hat-y
+    W = W*(1-regularisation_parameter/size)-(learning_rate/size)*np.dot(np.transpose(X),diff)
+    print("W is: ", W)
+    return W
