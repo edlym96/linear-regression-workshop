@@ -21,8 +21,8 @@ print("y is: ",y)
 m=y.size #Get total number of data samples
 
 #Generate weights
-w0=0
-w1=0
+w0=np.random.rand(1)
+w1=np.random.rand(1)
 print("weights are: ", w0,w1)
 
 #Initialise Model

@@ -14,6 +14,8 @@ def visualize(x, y=None, y_hat=None):
     y_hat: array-like
         y-axis model predictions
     """
+    plt.xlabel("Population in 10,000s")
+    plt.ylabel("Profit in 1,000s")
     if y is not None:
         plt.plot(x, y, 'o', label='Observed Values')
     if y_hat is not None:
