@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec90ba12-e175-44e8-989a-0a16fe0c4df1" name="Default Changelist" comment="" />
+    <list default="true" id="ec90ba12-e175-44e8-989a-0a16fe0c4df1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../notebooks/Demo - Copy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../notebooks/Demo - Copy.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,8 +97,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Multivariate Linear Regression/training_simple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="170">
+              <caret line="19" selection-start-line="19" selection-end-line="20" selection-end-column="14" />
               <folding>
                 <element signature="e#25#43#0" expanded="true" />
               </folding>
@@ -160,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -217,7 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.training (1)">
+  <component name="RunManager" selected="Python.training_simple">
     <configuration name="training (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="files" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -288,8 +290,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.training (1)" />
         <item itemvalue="Python.training_simple" />
+        <item itemvalue="Python.training (1)" />
         <item itemvalue="Python.training" />
       </list>
     </recent_temporary>
@@ -308,15 +310,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="68" y="20" width="1400" height="776" extended-state="1" />
+    <frame x="68" y="20" width="1400" height="776" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944974" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24944974" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32970452" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32970452" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -430,8 +432,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Multivariate Linear Regression/training_simple.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="170">
+          <caret line="19" selection-start-line="19" selection-end-line="20" selection-end-column="14" />
           <folding>
             <element signature="e#25#43#0" expanded="true" />
           </folding>
